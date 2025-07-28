@@ -8,3 +8,4 @@ SVM
 random forest
 naive bayes
 later, I have saved the trained model.
+Using streamlit, we can deploy this.
